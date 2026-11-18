@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SN74HC138N") (type "KiCad") (uri "${KIPRJMOD}/Models/SN74HC138N/SN74HC138N.pretty") (options "") (descr ""))
+	(lib (name "SN74HC138N") (type "KiCad") (uri "${KIPRJMOD}/Models/SN74HC138N/SN74HC138N.pretty") (options "") (descr ""))
+)
